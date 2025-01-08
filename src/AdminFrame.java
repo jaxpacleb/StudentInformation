@@ -1,6 +1,3 @@
-// new line
-// new line
-// new line
 import java.awt.CardLayout;
 import java.awt.Color;
 import java.awt.Dimension;
